@@ -1,0 +1,9 @@
+lista de comandos uteis do linux
+
+ls - lista de conteudo de diretorio
+pwd - mostra o caminho atual do usuario
+cd - navegar entre diretorios
+touch - cria arquivo
+mkdir - criar diretorio
+rmdir - apagar diretorio vazio
+cp - copia arquivos
